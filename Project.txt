@@ -1,0 +1,23 @@
+Class bank client:
+class Data base:
+class checking:
+
+Class bank client -> Method set/get name:
+                     Method set/get lastname:
+                     Method set login:
+                     Method set password:
+                     Method set number:
+                     Method set/get mooney:
+                     Method shop:
+                     Members name,lastname,login,password,number,mooney:
+Class Data base -> 
+                   Method display user information:
+                   Method display all users informations:
+                   Method add client:
+                   members Client[],
+
+Class checking -> Method check client name:
+                  Method check client lastname:
+                  Method check client number:
+                  Method check client login:
+                  Method check client password:
